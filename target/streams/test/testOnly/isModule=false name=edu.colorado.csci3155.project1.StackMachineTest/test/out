@@ -1,0 +1,8 @@
+[info] Suite Starting - StackMachineTest
+[info] Test Starting - StackMachineTest: stack machine test 1
+[info] Test Succeeded - StackMachineTest: stack machine test 1 (22 milliseconds)
+[info] Test Starting - StackMachineTest: stack machine test 2
+[info] Test Succeeded - StackMachineTest: stack machine test 2 (4 milliseconds)
+[info] Test Starting - StackMachineTest: stack machine test 5
+[info] Test Succeeded - StackMachineTest: stack machine test 5 (1 millisecond)
+[info] Suite Completed - StackMachineTest (86 milliseconds)

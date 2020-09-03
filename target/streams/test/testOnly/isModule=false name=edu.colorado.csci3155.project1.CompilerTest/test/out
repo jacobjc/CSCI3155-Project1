@@ -1,0 +1,10 @@
+[info] Suite Starting - CompilerTest
+[info] Test Starting - CompilerTest: simple expression 1
+[info] Test Succeeded - CompilerTest: simple expression 1 (23 milliseconds)
+[info] Test Starting - CompilerTest: simple expression 2
+[info] Test Succeeded - CompilerTest: simple expression 2 (2 milliseconds)
+[info] Test Starting - CompilerTest: simple expression 3
+[info] Test Succeeded - CompilerTest: simple expression 3 (4 milliseconds)
+[info] Test Starting - CompilerTest: simple expression 4
+[info] Test Succeeded - CompilerTest: simple expression 4 (5 milliseconds)
+[info] Suite Completed - CompilerTest (96 milliseconds)
